@@ -1,4 +1,4 @@
-# Portfolio: Multi-Tenant Billing and Subscription System
+# Portfolio: Billing and Subscription System
 
 This billing system allows administrators to manage subscription packages, sales catalogues, and track financial transactions. It provides a secure, white-labeled storefront for customers to browse and purchase services.
 
