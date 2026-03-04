@@ -7,29 +7,28 @@ This billing system allows administrators to manage subscription packages, sales
 Here are captured screens representing the core workflows of the billing system:
 
 ### 1. Administrative Dashboard
-![Dashboard](./screenshots/login_success_check_1772618050320.png)
+![Dashboard](./screenshots/dashboard_logo_new_1772627444351.png)
 
 ### 2. Subscription Packages Configuration
-![Packages List](./screenshots/billing_packages_list_1772618185111.png)
+![Packages List](./screenshots/packages_list_1772627255017.png)
 
 ### 3. Package Creation Form
-![Create Package](./screenshots/billing_create_package_form_1772618439423.png)
+![Create Package](./screenshots/create_package_form_1772627270182.png)
 
 ### 4. Sales Catalogues Management
-![Catalogues List](./screenshots/billing_catalogues_list_1772618202916.png)
+![Catalogues List](./screenshots/catalogues_logo_new_1772627446902.png)
 
 ### 5. Configured Payment Gateways
-![Payment Gateways](./screenshots/billing_gateways_list_1772618365686.png)
+![Payment Gateways](./screenshots/gateways_logo_new_1772627449319.png)
 
 ### 6. Customer Sales Portal Frontend
-![Sales Portal](./screenshots/billing_sales_portal_1772618487667.png)
+![Sales Portal](./screenshots/sales_portal_1772627708579.png)
 
 ### 7. Secure Checkout Iterface
-![Checkout Area](./screenshots/billing_checkout_page_1772618536161.png)
+![Checkout Area](./screenshots/checkout_page_1772627739362.png)
 
 ### 8. Order Tracking & Transactions
-![Orders List](./screenshots/billing_orders_list_1772618362834.png)
-![Transactions Overview](./screenshots/billing_transactions_list_1772618371401.png)
+![Orders List](./screenshots/orders_list_1772627662545.png)
 
 
 ## Key Features
