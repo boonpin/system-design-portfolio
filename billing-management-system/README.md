@@ -21,13 +21,10 @@ Here are captured screens representing the core workflows of the billing system:
 ### 5. Configured Payment Gateways
 ![Payment Gateways](screenshots/gateways_logo_new_1772627449319.png)
 
-### 6. Customer Sales Portal Frontend
-![Sales Portal](screenshots/sales_portal_1772627708579.png)
-
-### 7. Secure Checkout Iterface
+### 6. Secure Checkout Iterface
 ![Checkout Area](screenshots/checkout_page_1772627739362.png)
 
-### 8. Order Tracking & Transactions
+### 7. Order Tracking & Transactions
 ![Orders List](screenshots/orders_list_1772627662545.png)
 
 
