@@ -1,6 +1,12 @@
-# Portfolio: Billing and Subscription System
+# Portfolio: Multi-Tenant Billing and Subscription System
 
 This billing system allows administrators to manage subscription packages, sales catalogues, and track financial transactions. It provides a secure, white-labeled storefront for customers to browse and purchase services.
+
+## Common Use Cases
+- **SaaS Platforms**: Managing monthly or annual software subscriptions with automated recurring billing and flexible pricing tiers.
+- **Digital Agencies & Freelancers**: Creating customizable service packages and allowing clients to securely check out online.
+- **E-commerce & Digital Goods**: Selling digital products, courses, or memberships with instant payment verification and order tracking.
+- **Consulting Firms**: Streamlining the collection of retainer fees and project-based payments through integrated white-label payment gateways.
 
 ## High-Fidelity Screenshots
 
@@ -21,7 +27,7 @@ Here are captured screens representing the core workflows of the billing system:
 ### 5. Configured Payment Gateways
 ![Payment Gateways](screenshots/gateways_logo_new_1772627449319.png)
 
-### 6. Secure Checkout Iterface
+### 6. Secure Checkout Interface
 ![Checkout Area](screenshots/checkout_page_1772627739362.png)
 
 ### 7. Order Tracking & Transactions
