@@ -1,4 +1,4 @@
-# Portfolio: Billing and Subscription System
+# Portfolio: Multi-Tenant Billing and Subscription System
 
 This billing system allows administrators to manage subscription packages, sales catalogues, and track financial transactions. It provides a secure, white-labeled storefront for customers to browse and purchase services.
 
@@ -7,28 +7,28 @@ This billing system allows administrators to manage subscription packages, sales
 Here are captured screens representing the core workflows of the billing system:
 
 ### 1. Administrative Dashboard
-![Dashboard](./screenshots/dashboard_logo_new_1772627444351.png)
+![Dashboard](screenshots/dashboard_logo_new_1772627444351.png)
 
 ### 2. Subscription Packages Configuration
-![Packages List](./screenshots/packages_list_1772627255017.png)
+![Packages List](screenshots/packages_list_1772627255017.png)
 
 ### 3. Package Creation Form
-![Create Package](./screenshots/create_package_form_1772627270182.png)
+![Create Package](screenshots/create_package_form_1772627270182.png)
 
 ### 4. Sales Catalogues Management
-![Catalogues List](./screenshots/catalogues_logo_new_1772627446902.png)
+![Catalogues List](screenshots/catalogues_logo_new_1772627446902.png)
 
 ### 5. Configured Payment Gateways
-![Payment Gateways](./screenshots/gateways_logo_new_1772627449319.png)
+![Payment Gateways](screenshots/gateways_logo_new_1772627449319.png)
 
 ### 6. Customer Sales Portal Frontend
-![Sales Portal](./screenshots/sales_portal_1772627708579.png)
+![Sales Portal](screenshots/sales_portal_1772627708579.png)
 
 ### 7. Secure Checkout Iterface
-![Checkout Area](./screenshots/checkout_page_1772627739362.png)
+![Checkout Area](screenshots/checkout_page_1772627739362.png)
 
 ### 8. Order Tracking & Transactions
-![Orders List](./screenshots/orders_list_1772627662545.png)
+![Orders List](screenshots/orders_list_1772627662545.png)
 
 
 ## Key Features
